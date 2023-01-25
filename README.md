@@ -17,8 +17,8 @@
   
 ### Connect with me
 
-[![website](./img/globe-light.svg)](https://my-name-is-shradha.vercel.app#gh-dark-mode-only)
 [![website](./img/globe-light.svg)](https://my-name-is-shradha.vercel.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://my-name-is-shradha.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/shradhasuman21#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/shradhasuman21#gh-dark-mode-only)
